@@ -1,0 +1,12 @@
+requests
+torch 
+torchvision 
+torchmetrics
+matplotlib 
+tqdm 
+albumentations
+timm
+scikit-learn
+torchmetrics[detection]
+psutil
+pandas
