@@ -7,9 +7,6 @@
 
 # Introduction
 
-## Presentation
-
-[Click to View](./Presentation.pdf) or Browse to ./Presentation.pdf
 
 ## Video Presentation
 
